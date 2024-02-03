@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Aniket!;" />
+</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**Aniket-2504/Aniket-2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Nextjs, React-Native, Aws**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Nodejs, React, JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Feel Free to Contact Me **aniketdhaygude4@gmail.com**
+
+
+<h3 align="center">Technologies That I Know👨🏻‍💻:</h3>
+
+- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,nodejs,express,react,mongodb,docker,vscode,linux,git,github,firebase,figma)](https://skillicons.dev)
+
+
+
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+<a href="https://twitter.com/aniket_d04" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/aniket dhaygude" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+
+</p>
