@@ -22,6 +22,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
 <a href="https://twitter.com/aniket_d04" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://linkedin.com/in/aniket Dhaygude" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/aniket-dhaygude-63bab6291/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 </p>
