@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Nextjs, React-Native, Aws**
+- 🌱 I’m currently learning **Nextjs, React, Aws**
 
 - 💬 Ask me about **Nodejs, React, JavaScript**
 
