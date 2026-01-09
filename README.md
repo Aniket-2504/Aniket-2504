@@ -11,7 +11,7 @@
 
 <h3 align="center">Technologies That I Know👨🏻‍💻:</h3>
 
-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,nodejs,express,react,mongodb,docker,vscode,linux,git,github,firebase,figma)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,react,mongodb,docker,vscode,linux,git,github,firebase,figma)](https://skillicons.dev)
 
 
 
